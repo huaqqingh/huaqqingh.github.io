@@ -1,2 +1,3 @@
 # huaqqingh.github.io
-
+<img src="C:\Users\hua\Desktop\cc\1.jpg" width="1000" height="400"> 
+<h1 style='text-align:center;color:red;'> hello</h1>
